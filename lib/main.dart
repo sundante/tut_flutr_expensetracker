@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tut_flutr_expensetracker/sign_up.dart';
+import 'package:tut_flutr_expensetracker/screens/sign_up.dart';
 
 void main() {
   runApp(const MyApp());
